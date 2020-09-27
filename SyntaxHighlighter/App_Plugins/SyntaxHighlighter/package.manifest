@@ -1,0 +1,5 @@
+﻿{
+	javascript: [
+			'~/App_Plugins/SyntaxHighlighter/Assets/controllers.js?v=0.0.2'
+			]
+}

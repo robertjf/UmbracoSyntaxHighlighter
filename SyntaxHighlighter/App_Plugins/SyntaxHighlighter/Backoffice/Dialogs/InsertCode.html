@@ -1,0 +1,56 @@
+﻿<div ng-controller="SyntaxHighlighter.Controllers.Dialogs.InsertCodeController" class="umb-panel sh-insertcode-dialog">
+    <form name="form">
+        <div class="umb-panel-header">
+            <h3>Insert Code</h3>
+        </div>
+        <div class="umb-panel-body">
+            <!--<select ng-model="language" ng-options="o.title for o in languages" class="umb-editor"></select>-->
+
+            <select id="ProgrammingLanguages" ng-model="language" class="umb-editor">
+                <option value="">--- Choose a language ---</option>
+                <option value="applescript">AppleScript</option>
+                <option value="actionscript3">ActionScript 3</option>
+                <option value="bash">Bash Shell</option>
+                <option value="c-sharp">C#</option>
+                <option value="cpp">C++</option>
+                <option value="coldfusion">Coldfusion</option>
+                <option value="css">CSS</option>
+                <option value="delphi">Delphi</option>
+                <option value="diff">Diff/Patch</option>
+                <option value="erlang">ErLang</option>
+                <option value="groovy">Groovy</option>
+                <option value="java">Java</option>
+                <option value="javascript">JavaScript</option>
+                <option value="perl">Perl</option>
+                <option value="php">PHP</option>
+                <option value="python">Python</option>
+                <option value="ruby">Ruby/Rails</option>
+                <option value="sql">Sql</option>
+                <option value="vbnet">VB</option>
+                <option value="xhtml">XML/HTML/XSLT</option>
+            </select>
+
+            <textarea id="CodeArea" class="umb-editor" placeholder="Paste your code here" ng-model="snippet" style="height: 300px;"></textarea>
+
+            <div class="Options">
+                <label id="nogutter_lable"><input type="checkbox" ng-model="nogutter" /> No Gutter</label>
+                <label id="collapse_label"><input type="checkbox" ng-model="collapse" /> Collapse Code</label>
+                <label id="nocontrols_label"><input type="checkbox" ng-model="nocontrols" /> Hide Toolbar</label>
+                <!--<input id="showcolumns" type="checkbox" ng-model="showcolumns" />
+                <label id="showcolumns_label" for="showcolumns">Show Columns</label>-->
+                <label id="htmlscript_label"><input type="checkbox" ng-model="htmlscript" /> HTML Script</label>
+            </div>
+        </div>
+        <div class="umb-panel-footer">
+            <div class="pull-right">
+                <a href="" ng-click="close()" class="btn btn-link">
+                    <localize key="general_cancel">Cancel</localize>
+                </a>
+
+                <button class="btn btn-success" ng-click="done()" ng-disabled="!isValid()">
+                    <localize key="general_insert">Insert</localize>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>

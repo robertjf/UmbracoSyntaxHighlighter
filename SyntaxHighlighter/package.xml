@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>shAutoloader.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shAutoloader.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushAppleScript.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushAppleScript.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushAS3.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushAS3.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushBash.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushBash.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushColdFusion.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushColdFusion.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushCpp.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushCpp.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushCSharp.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushCSharp.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushCss.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushCss.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushDelphi.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushDelphi.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushDiff.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushDiff.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushErlang.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushErlang.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushGroovy.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushGroovy.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushJava.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushJava.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushJavaFX.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushJavaFX.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushJScript.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushJScript.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushPerl.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushPerl.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushPhp.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushPhp.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushPlain.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushPlain.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushPowerShell.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushPowerShell.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushPython.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushPython.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushRuby.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushRuby.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushSass.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushSass.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushScala.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushScala.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushSql.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushSql.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushVb.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushVb.js</orgName>
+    </file>
+    <file>
+      <guid>shBrushXml.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shBrushXml.js</orgName>
+    </file>
+    <file>
+      <guid>shCore.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shCore.js</orgName>
+    </file>
+    <file>
+      <guid>shLegacy.js</guid>
+      <orgPath>/scripts/syntaxhighlighter/scripts</orgPath>
+      <orgName>shLegacy.js</orgName>
+    </file>
+    <file>
+      <guid>shCore.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCore.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreDefault.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreDefault.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreDjango.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreDjango.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreEclipse.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreEclipse.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreEmacs.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreEmacs.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreFadeToGrey.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreFadeToGrey.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreMDUltra.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreMDUltra.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreMidnight.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreMidnight.css</orgName>
+    </file>
+    <file>
+      <guid>shCoreRDark.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shCoreRDark.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeDefault.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeDefault.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeDjango.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeDjango.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeEclipse.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeEclipse.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeEmacs.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeEmacs.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeFadeToGrey.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeFadeToGrey.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeMDUltra.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeMDUltra.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeMidnight.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeMidnight.css</orgName>
+    </file>
+    <file>
+      <guid>shThemeRDark.css</guid>
+      <orgPath>/scripts/syntaxhighlighter/styles</orgPath>
+      <orgName>shThemeRDark.css</orgName>
+    </file>
+    <file>
+      <guid>package.manifest</guid>
+      <orgPath>/App_Plugins/SyntaxHighlighter</orgPath>
+      <orgName>package.manifest</orgName>
+    </file>
+    <file>
+      <guid>controllers.js</guid>
+      <orgPath>/App_Plugins/SyntaxHighlighter/assets</orgPath>
+      <orgName>controllers.js</orgName>
+    </file>
+    <file>
+      <guid>codehighlight.gif</guid>
+      <orgPath>/App_Plugins/SyntaxHighlighter/assets/images</orgPath>
+      <orgName>codehighlight.gif</orgName>
+    </file>
+    <file>
+      <guid>InsertCode.html</guid>
+      <orgPath>/App_Plugins/SyntaxHighlighter/Backoffice/Dialogs</orgPath>
+      <orgName>InsertCode.html</orgName>
+    </file>
+    <file>
+      <guid>plugin_src.js</guid>
+      <orgPath>/App_Plugins/SyntaxHighlighter/extensions/TinyMce4/syntaxhighlighter</orgPath>
+      <orgName>plugin_src.js</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>SyntaxHighlighter for Umbraco 7</name>
+      <version>0.0.1</version>
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>http://digitalsmith.com.au/code/syntax-highlighter-for-umbraco-7</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Robert Foster</name>
+      <website>https://youritteam.com.au</website>
+    </author>
+    <readme><![CDATA[Add SyntaxHighlighter to your Blog Posts in Umbraco 7 with this RichText Editor plugin.
+
+Based on Alex Gorbatchev's work, this plugin enables you to paste your code into the TinyMCE based Rich Text Editor while setting common options along the way.
+
+Although this package automatically installs SyntaxHighlighter into your /scripts folder, you will still need to include the SyntaxHighlighter scripts and configure it in your Views.
+
+More information on the SyntaxHighlighter is available here:
+http://alexgorbatchev.com/SyntaxHighlighter/
+
+Code pasted in is wrapped in <pre> tags with the appropriate brush and options required by SyntaxHighlighter.
+
+Features:
+* Umbraco 7 Dialog for pasting code and setting the brush and options
+* Validation - code can only be inserted once a Brush is selected.
+
+Additional Steps
+-----------------------
+To complete installation you will need to do two things:
+1. Update the /config/tinyMceConfig.config to register the plugin
+2. Edit the Richtext Editor Data Type to include the new Toolbar item
+3. Update your View to include the SyntaxHighlighter stylesheets and JavaScript.
+
+These steps are detailed on the product page at http://digitalsmith.com.au/code/syntax-highlighter-for-umbraco-7.
+
+]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>
